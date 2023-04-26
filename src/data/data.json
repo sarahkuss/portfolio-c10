@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Tribute",
+    "content": "Tribute page to loved one",
+    "website": "https://github.com",
+    "cover": "https://picsum.photos/400/400"
+  },
+  {
+    "id": 2,
+    "name": "Kardashev Scale",
+    "content": "Kardashev Scale",
+    "website": "https://github.com",
+    "cover": "https://picsum.photos/400/400"
+  },{
+    "id": 3,
+    "name": "BlueNight in Seoul",
+    "content": "Clock",
+    "website": "https://github.com",
+    "cover": "https://picsum.photos/400/400"
+  },
+  {
+    "id": 4,
+    "name": "About Me",
+    "content": "About Me Page",
+    "website": "https://github.com",
+    "cover": "https://picsum.photos/400/400"
+  },
+  {
+    "id": 5,
+    "name": "Counter", 
+    "content": "Counter App",
+    "website": "https://github.com",
+    "cover": "https://picsum.photos/400/400"
+  },
+  {
+    "id": 6,
+    "name": "Timber Login",
+    "content": "Login Page",
+    "website": "https://github.com",
+    "cover": "https://picsum.photos/400/400"
+  },
+  {
+    "id": 7,
+    "name": "Quiz",
+    "content": "Quiz App",
+    "website": "https://github.com",
+    "cover": "https://picsum.photos/400/400"
+  },
+  {
+    "id": 8,
+    "name": "Restaurant Picker",
+    "content": "Mobile App with local restaurants and random picker",
+    "website": "https://github.com",
+    "cover": "https://picsum.photos/400/400"
+  }
+]
