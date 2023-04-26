@@ -8,8 +8,13 @@ export default function Footer () {
       <Container>
         <Row>
           <Col className="footer-col">
-            <p>&copy; {currentYear} &nbsp;
-            <a href={githubUrl} target="_blank" rel="noreferrer"><Github /></a>
+            <p className="text-center">
+            <a href={githubUrl} 
+              target="_blank" 
+              rel="noreferrer" 
+              className="button-effect">
+              <Github size={40} color="#171515" /></a>
+            <small>&copy; {currentYear}</small>
             </p>
           </Col>
         </Row>
